@@ -31,7 +31,7 @@ let fruitSlowDown = false;
 let adLink = 'https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '合成丹丹';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
